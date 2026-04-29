@@ -10,7 +10,7 @@ SUMMARY
 
 STACK
   TypeScript, JavaScript, React, Next.js, Node.js,
-  Playwright, Vitest, Claude Code
+  Claude Code, monorepo fan
 
 MENTORSHIP
   I work with developers who want to grow. Whatever that
