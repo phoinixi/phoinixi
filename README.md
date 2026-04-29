@@ -11,7 +11,9 @@ SUMMARY
 STACK
   Languages   TypeScript, JavaScript
   Frontend    React, Next.js
+  Backend     Node.js
   Testing     Playwright, Vitest
+  Tooling     Claude Code
 
 MENTORSHIP
   I work with developers who want to grow. Whatever that
