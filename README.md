@@ -1,18 +1,26 @@
-# Hi there, I'm Francesco 👋
+```
+================================================================
+ FRANCESCO ESPOSITO
+ Zürich, CH  ·  francescoesposito.dev
+================================================================
 
-## About Me
+SUMMARY
+  Survived the jQuery era. 10+ years shipping frontends.
+  Now: architecture, performance, and helping devs grow.
 
-- 🚀 Senior Frontend Developer with 10+ years of experience
-- 💼 Worked at Microsoft for 6 years
-- 🔭 Witnessed and contributed to the evolution of frontend from jQuery to React
-- 💬 Ask me about frontend architecture, career growth, or transitioning to big tech. Book a session on [mentor cruise](https://mentorcruise.com/mentor/francescoesposito/)
+STACK
+  Languages   TypeScript, JavaScript
+  Frontend    React, Next.js
+  Testing     Playwright, Vitest
 
-## 📊 GitHub Stats
+MENTORSHIP
+  I work with developers who want to grow. Whatever that
+  looks like for them, I help them get there.
+  → mentorcruise.com/mentor/francescoesposito
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phoinixi&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phoinixi&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phoinixi&theme=nord_dark) |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-
-## 👨‍🏫 Mentorship
-
-I offer personalized mentorship for developers looking to advance their frontend skills or break into big tech.
-[Schedule a session on MentorCruise](https://mentorcruise.com/mentor/francescoesposito/)
+LINKS
+  Web           francescoesposito.dev
+  GitHub        github.com/phoinixi
+  LinkedIn      linkedin.com/in/francescoes
+  MentorCruise  mentorcruise.com/mentor/francescoesposito
+```
