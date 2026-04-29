@@ -9,11 +9,8 @@ SUMMARY
   Now: architecture, performance, and helping devs grow.
 
 STACK
-  Languages   TypeScript, JavaScript
-  Frontend    React, Next.js
-  Backend     Node.js
-  Testing     Playwright, Vitest
-  Tooling     Claude Code
+  TypeScript, JavaScript, React, Next.js, Node.js,
+  Playwright, Vitest, Claude Code
 
 MENTORSHIP
   I work with developers who want to grow. Whatever that
