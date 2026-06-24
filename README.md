@@ -30,7 +30,6 @@ os      macOS · Zürich 🇨🇭
 shell   zsh + oh-my-zsh
 editor  zed
 stack   TypeScript · React · Next.js
-🟥 🟧 🟨 🟩 🟦 🟪 ⬛ ⬜
 
 ➜  phoinixi git:(main) ✗ links
 🌐 web        <a href="https://francescoesposito.dev">francescoesposito.dev</a>
