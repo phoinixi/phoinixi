@@ -1,7 +1,5 @@
 <pre>
-┌──────────────────────────────────────────────────────┐
-│  ●  ●  ●        fra@francescoesposito.dev — zsh        │
-└──────────────────────────────────────────────────────┘
+🔴 🟡 🟢   fra@francescoesposito.dev — zsh
 </pre>
 
 <sub>▸ click a command to run it</sub>
@@ -27,7 +25,7 @@ Now: AI & LLM apps, developer experience, and growing engineers.
     "typescript": "^5",
     "react":      "^19",
     "next":       "^15",
-    "node":       ">=22"
+    "node":       ">=24"
   }
 }
 </pre>
@@ -66,4 +64,4 @@ mentor     <a href="https://mentorcruise.com/mentor/francescoesposito">mentorcru
 
 <br>
 
-<sub>── git:(main) · node v22 · Zürich, CH ──</sub>
+<sub>── git:(main) · node v24 · Zürich, CH ──</sub>
