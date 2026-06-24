@@ -1,69 +1,33 @@
-<pre>
-┌──────────────────────────────────────────────────────┐
-│  ●  ●  ●        fra@francescoesposito.dev — zsh        │
-└──────────────────────────────────────────────────────┘
-</pre>
+```ansi
+[38;5;203m●[0m [38;5;215m●[0m [38;5;77m●[0m   [38;5;245mfra@francescoesposito.dev — zsh[0m
+[38;5;239m────────────────────────────────────────────────[0m
 
-<sub>▸ click a command to run it</sub>
-
-<details open>
-<summary><code>➜&nbsp;&nbsp;phoinixi git:(main) ✗ whoami</code></summary>
-
-<pre>
-Francesco Esposito · Zürich, CH
+[38;5;76m➜[0m  [38;5;37mphoinixi[0m [38;5;33mgit:([0m[38;5;160mmain[0m[38;5;33m)[0m [38;5;178m✗[0m whoami
+[38;5;76mFrancesco Esposito[0m [38;5;245m· Zürich, CH[0m
 Senior Software Engineer.
 Two decades shipping interfaces. Survived the jQuery era.
-Now: AI & LLM apps, developer experience, and growing engineers.
-</pre>
-</details>
+Now: [38;5;37mAI & LLM apps[0m, developer experience, and growing engineers.
 
-<details>
-<summary><code>➜&nbsp;&nbsp;phoinixi git:(main) ✗ cat package.json</code></summary>
+[38;5;76m➜[0m  [38;5;37mphoinixi[0m [38;5;33mgit:([0m[38;5;160mmain[0m[38;5;33m)[0m [38;5;178m✗[0m cat package.json
+[38;5;245m{[0m
+  [38;5;37m"engineer"[0m: [38;5;76m"Francesco Esposito"[0m,
+  [38;5;37m"dependencies"[0m: [38;5;245m{[0m
+    [38;5;37m"typescript"[0m: [38;5;76m"^5"[0m,
+    [38;5;37m"react"[0m:      [38;5;76m"^19"[0m,
+    [38;5;37m"next"[0m:       [38;5;76m"^15"[0m,
+    [38;5;37m"node"[0m:       [38;5;76m">=22"[0m
+  [38;5;245m}[0m
+[38;5;245m}[0m
 
-<pre>
-{
-  "engineer": "Francesco Esposito",
-  "dependencies": {
-    "typescript": "^5",
-    "react":      "^19",
-    "next":       "^15",
-    "node":       ">=22"
-  }
-}
-</pre>
-</details>
+[38;5;76m➜[0m  [38;5;37mphoinixi[0m [38;5;33mgit:([0m[38;5;160mmain[0m[38;5;33m)[0m [38;5;178m✗[0m brew list
+[38;5;37mclaude-code[0m   [38;5;37mopencode[0m   [38;5;37mcmux[0m   [38;5;37mzed[0m   [38;5;37mobsidian[0m   [38;5;37moh-my-zsh[0m
 
-<details>
-<summary><code>➜&nbsp;&nbsp;phoinixi git:(main) ✗ brew list</code></summary>
-
-<pre>
-<a href="https://claude.com/claude-code">claude-code</a>   <a href="https://opencode.ai">opencode</a>   <a href="https://github.com/manaflow-ai/cmux">cmux</a>   <a href="https://zed.dev">zed</a>   <a href="https://obsidian.md">obsidian</a>   <a href="https://ohmyz.sh">oh-my-zsh</a>
-</pre>
-</details>
-
-<details>
-<summary><code>➜&nbsp;&nbsp;phoinixi git:(main) ✗ cat mentorship.md</code></summary>
-
-<pre>
+[38;5;76m➜[0m  [38;5;37mphoinixi[0m [38;5;33mgit:([0m[38;5;160mmain[0m[38;5;33m)[0m [38;5;178m✗[0m cat mentorship.md
 I mentor engineers who want to grow: career strategy,
 interview prep, and code & architecture reviews.
 One-off sessions or long-term, whatever gets them there.
-</pre>
 
-→ <a href="https://mentorcruise.com/mentor/francescoesposito">book a session on MentorCruise</a>
-</details>
+[38;5;76m➜[0m  [38;5;37mphoinixi[0m [38;5;33mgit:([0m[38;5;160mmain[0m[38;5;33m)[0m [38;5;178m✗[0m [38;5;76m█[0m
+```
 
-<details>
-<summary><code>➜&nbsp;&nbsp;phoinixi git:(main) ✗ links</code></summary>
-
-<pre>
-web        <a href="https://francescoesposito.dev">francescoesposito.dev</a>
-github     <a href="https://github.com/phoinixi">github.com/phoinixi</a>
-linkedin   <a href="https://linkedin.com/in/francescoes">linkedin.com/in/francescoes</a>
-mentor     <a href="https://mentorcruise.com/mentor/francescoesposito">mentorcruise.com/mentor/francescoesposito</a>
-</pre>
-</details>
-
-<br>
-
-<sub>── git:(main) · node v22 · Zürich, CH ──</sub>
+**Links** · <a href="https://francescoesposito.dev">francescoesposito.dev</a> · <a href="https://github.com/phoinixi">GitHub</a> · <a href="https://linkedin.com/in/francescoes">LinkedIn</a> · <a href="https://mentorcruise.com/mentor/francescoesposito">MentorCruise</a>
